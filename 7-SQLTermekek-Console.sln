@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-SQLTermekek-Console", "7-SQLTermekek-Console\7-SQLTermekek-Console.csproj", "{4E2FB355-74BD-4618-A851-E236D2807A86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E2FB355-74BD-4618-A851-E236D2807A86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E2FB355-74BD-4618-A851-E236D2807A86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E2FB355-74BD-4618-A851-E236D2807A86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E2FB355-74BD-4618-A851-E236D2807A86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {116C0AC8-0397-4278-AA6C-A800B5D49930}
+	EndGlobalSection
+EndGlobal
